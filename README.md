@@ -1,4 +1,4 @@
-# Command Line Games using Javascript
+# Command Line Games using Javascript 👾
 As part of one of my graduate workshops, I created three games that anyone can play on their command line. The code for the games are present in this repository. Here's what you need to do to run the file:
 
 1) Download the cmdgames.js file
